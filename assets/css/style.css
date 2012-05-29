@@ -266,6 +266,7 @@ header {
 }
 
 h1, h2, h3, h4, h5, h6, footer {
+	font-size: 1em;
 	font-family: 'BebasNeueRegular';
 	font-weight: normal;
 	text-transform: uppercase;
@@ -275,8 +276,10 @@ h1, h2, h3, h4, h5, h6, footer {
 
 #main h1 {
 	text-align: center;
-	border-bottom: 2px solid #333;
-	margin-bottom: -2px;
+	color: #8D1B0E;
+	font-size: 2em;
+	/*border-bottom: 2px solid #333;
+	margin-bottom: -2px;*/
 }
 
 header h1 {
