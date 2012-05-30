@@ -23,23 +23,24 @@ production of creative, cultural and scientific works, or to
 gain reputation or greater distribution for their Work in part
 through the use and efforts of others.
                 
-For these and/or other purposes and motivations, and
-without any expectation of additional consideration or
-compensation, the person associating the Sharing Agreement with a Work (the
+For these and/or other purposes and motivations, and without
+any expectation of additional consideration or compensation,
+the person associating the Sharing Agreement with a Work (the 
 "Affirmer"), to the extent that he or she is an owner of
 Copyright and Related Rights in the Work, voluntarily elects
-to apply the Sharing Agreement to the Work and publicly distribute the Work
-under its terms, with knowledge of his or her Copyright and
-Related Rights in the Work and the meaning and intended legal
-effect of the Sharing Agreement on those rights.
+to apply the Sharing Agreement to the Work and publicly
+distribute the Work under its terms, with knowledge of his
+or her Copyright  and Related Rights in the Work and the
+meaning and intended legal effect of the Sharing Agreement
+on those rights.
                 
 1) Copyright & Related Rights.
 --------------------------------
 
-A Work made available under the Sharing Agreement may be restricted by
-copyright and related or neighboring rights ("Copyright and
-Related Rights"). Copyright and Related Rights include, but
-are not limited to, the following: 
+A Work made available under the Sharing Agreement may be
+restricted by copyright and related or neighboring rights
+("Copyright and Related Rights"). Copyright and Related Rights
+include, but are not limited to, the following: 
                 
 1. the right to reproduce, adapt, distribute, perform,
    display, communicate, and translate a Work;
@@ -103,9 +104,9 @@ maximum duration provided by applicable law or treaty
 future medium and for any number of copies, and (iv) for any
 purpose whatsoever, including without limitation commercial,
 advertising or promotional purposes (the "License"). The
-License shall be deemed effective as of the date the Sharing Agreement was
-applied by Affirmer to the Work. Should any part of the
-License for any reason be judged legally invalid or
+License shall be deemed effective as of the date the Sharing
+Agreement was applied by Affirmer to the Work. Should any part
+of the License for any reason be judged legally invalid or
 ineffective under applicable law, such partial invalidity or
 ineffectiveness shall not invalidate the remainder of the
 License, and in such case Affirmer hereby affirms that he or

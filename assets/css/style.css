@@ -261,6 +261,15 @@ header {
 	padding-top: 1em;
 }
 
+header a, header a:visited {
+	color: #333;
+}
+
+header a:hover {
+	color: #8D1B0E;
+	border-bottom: none;
+}
+
 #main {
 	border-bottom: 4px solid #333;
 }
@@ -278,8 +287,6 @@ h1, h2, h3, h4, h5, h6, footer {
 	text-align: center;
 	color: #8D1B0E;
 	font-size: 2em;
-	/*border-bottom: 2px solid #333;
-	margin-bottom: -2px;*/
 }
 
 header h1 {
@@ -292,8 +299,39 @@ header h1 {
 	text-align: center;
 }
 
-footer {
-	padding: 1em 0;
+ul {
+	list-style-type: none;
+}
+
+ul.nav {
+	padding: 0;
+	margin-left: 0;
+	float: left;
+}
+
+ul.nav li {
+	display: block-inline;
+	float: left;
+	margin-right: .5em;	
+}
+
+ul.pull-right {
+	float: right;
+}
+
+.pull-right li {
+	display: block-inline;
+	float: right;
+	margin-left: .5em;	
+}
+
+.map {
+	width: 100%;
+}
+
+.details {
+	font-family: 'Ubuntu Condensed', sans-serif;
+	font-size: 16px;
 }
 
 

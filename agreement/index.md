@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Agreement
+title: Agreement
 description: "The Sharing Agreement. Share to be."
 ---
 

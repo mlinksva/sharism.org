@@ -16,6 +16,8 @@
 
   <meta name="viewport" content="width=device-width">
   
+  <link href='http://fonts.googleapis.com/css?family=Ubuntu+Condensed&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+  
   <link rel="stylesheet" href="/assets/fonts/bebas-neue/stylesheet.css">
   <link rel="stylesheet" href="/assets/fonts/league-gothic/stylesheet.css">
   <link rel="stylesheet" href="/assets/fonts/economica/stylesheet.css">
@@ -28,7 +30,7 @@
 <div class="container">
   <header>
   
-  <h1>{{site.title}}</h1>
+  <h1><a href="/">{{site.title}}</a></h1>
 
   </header>
   <div role="main" id="main">
@@ -38,7 +40,7 @@
   </div>
   <footer>
   
-  {% include footer.md %}
+  {% include footer.html %}
 
   </footer>
 </div>
