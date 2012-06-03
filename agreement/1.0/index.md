@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sharing Agreement
+title: Sharing Agreement 1.0
 description: "The Sharing Agreement."
 ---
 
