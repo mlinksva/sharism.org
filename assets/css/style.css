@@ -318,10 +318,12 @@ ul.pull-right {
 	float: right;
 }
 
-.pull-right li {
+ul.pull-right li {
 	display: block-inline;
 	float: right;
-	margin-left: .5em;	
+	text-align: right;
+	margin-right: 0;
+	margin-left: 0.5em;	
 }
 
 .map {
@@ -365,7 +367,8 @@ h1#sharing_agreement {
 		font-size: 1em;
 	}
 	
-	#main ul {
+	#main ul,
+	#main ol {
 		padding-left: 0;
 	}
 	
