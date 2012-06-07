@@ -224,7 +224,6 @@ html, body {
   font-size: 20px;
   background-image: url(/assets/img/45degreee_fabric.png);
   background-repeat:repeat;
-  background-attachment:fixed;
   height: 100%;
   font-family: 'Economica';
 }
@@ -334,6 +333,10 @@ ul.pull-right {
 	font-size: 16px;
 }
 
+h1#sharing_agreement {
+	display: none;
+}
+
 
 
 /* ==|== media queries ======================================================
@@ -342,8 +345,70 @@ ul.pull-right {
    Modify as content requires.
    ========================================================================== */
 
-@media only screen and (min-width: 35em) {
-  /* Style adjustments for viewports that meet the condition */
+@media only screen and (max-width: 360px) {
+	html, body {
+		background: white
+	}
+
+	.container {
+		width: 240px;
+      -webkit-box-shadow: none;
+	  -moz-box-shadow: none;
+	  box-shadow: none;
+	}
+	
+	header h1 {
+		font-size: 1.85em;
+	}
+	
+	#main h1 {
+		font-size: 1em;
+	}
+	
+	#main ul {
+		padding-left: 0;
+	}
+	
+}
+
+@media only screen and (min-width: 360px) and (max-width: 520px) {
+  .container {
+  	width: 320px;
+  }
+  
+  header h1 {
+  	font-size: 2.5em;
+  }
+	
+	#main h1 {
+		font-size: 1em;
+	}
+}
+
+@media only screen and (min-width: 520px) and (max-width: 767px) {
+  .container {
+  	width: 480px;
+  }
+  
+  header h1 {
+  	font-size: 3.7em;
+  }
+}
+
+@media only screen and (min-width: 769px) and (max-width: 960px)  {
+	.container {
+		width: 640px;
+	}
+  
+  header h1 {
+  	font-size: 4.9em;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  html, body {
+    background-attachment:fixed;
+  }
 }
 
 
