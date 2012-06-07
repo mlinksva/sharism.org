@@ -1,5 +1,7 @@
-Sharing Agreement 1.0
-=====================
+Sharing Agreement
+=================
+
+# Version 1.0
 
 Summary
 -------
