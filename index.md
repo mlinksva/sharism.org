@@ -4,4 +4,4 @@ title: Home
 description: "The Sharing Agreement. Share to be."
 ---
 
-{% include home.md %}
+{% include home.html %}
